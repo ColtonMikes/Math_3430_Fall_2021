@@ -10,4 +10,8 @@ def add_vectors(vector_a,vector_b):
 test_vector_01 = [1,2,3]
 test_vector_02 = [4,3,2]
 
-print(add_vectors(test_vector_02,test_vector_01))
+not_vector = 4
+
+print(add_vectors(not_vector,test_vector_02))
+
+
